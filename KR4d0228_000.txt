@@ -1,5 +1,0 @@
-# -*- mode: mandoku-view; -*-
-#+TITLE: 雪山集
-#+DATE: 2015-08-24 23:59:54.896663
-#+PROPERTY: ID KR4d0228
-#+PROPERTY: BASEEDITION WYG    
